@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use these tools, please cite HITZ and the original online tools."
+type: software
+title: "HITZ GEO Tools"
+date-released: "2026-10-06"
+authors:
+  - name: "HITZ"
+    website: "https://hitz.agency"
+  - family-names: "Aksanov"
+    given-names: "Marat"
+    website: "https://aksanov.digital"
+url: "https://hitz.agency/tools"
+repository-code: "https://github.com/aksanovdgtl-cmyk/hitz-geo-tools"
+license: MIT
+abstract: "Free open-source GEO tools by HITZ: AI crawler access, llms.txt, prompt map, GEO page audit, brand entity and Schema/JSON-LD checks."
+keywords:
+  - "generative engine optimization"
+  - "GEO"
+  - "AI search"
+  - "llms.txt"
+  - "robots.txt"
+  - "Schema.org"
